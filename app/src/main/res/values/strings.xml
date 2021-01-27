@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Product List</string>
+    <string name="hint_search">Search...</string>
+    <string name="label_number_count">Se encontraron %d producto(s)</string>
+    <string name="title_activity_main">Productos</string>
+    <string name="error_download_data">Surgio un error al realizar la busqueda</string>
+</resources>
